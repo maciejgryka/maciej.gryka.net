@@ -1,9 +1,20 @@
+## Seup
+
+```bash
+asdf install
+gem install bundler
+# asdf reshim
+bundle install
+```
+
 ## Serve locally
+
 ```bash
 bundle exec jekyll serve
 ```
 
 ## Publish
+
 ```bash
 git push origin master
 ```
