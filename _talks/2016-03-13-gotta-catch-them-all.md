@@ -1,6 +1,6 @@
 ---
 date: 2016-03-13
-title: Gotta catch'em all - recognizing sloppy work in crowdsourcing tasks
+title: "Gotta catch'em all: recognizing sloppy work in crowdsourcing tasks"
 video_url: https://youtu.be/7_h8PElXio8
 venue: PyData Amsterdam 2016
 venue_url: https://pydata.org/amsterdam2016/schedule/presentation/13/index.html

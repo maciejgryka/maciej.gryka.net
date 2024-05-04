@@ -1,6 +1,6 @@
 ---
 date: 2017-07-13
-title: Despicable machines - how computers can be assholes
+title: "Despicable machines: how computers can be assholes"
 video_url: https://youtu.be/IUJ34MguA8M?si=s8LZBkKgwjxwNJlM
 venue: EuroPython 2017
 venue_url: https://ep2017.europython.eu/conference/talks/despicable-machines-how-computers-can-be-assholes.html
