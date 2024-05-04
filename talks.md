@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks
-permalink: /talks/
+permalink: /talks
 order: 3
 ---
 
@@ -10,7 +10,7 @@ order: 3
   {% assign sorted_items = site[collection.label] | sort:"date" | reverse %}
   {% for item in sorted_items %}
   {% if item.video_url != nil %}
-  <h2><a href="{{ item.video_url }}">{{ item.title }}</a></h2>
+  <h2><a href="{{ item.video_url }}">{{ item.title }}</a></h2><a href="#{{ item.anchor}}">anchor</a>
   {% else %}
   <h2>{{ item.title }} (video coming soon)</h2>
   {% endif %}
