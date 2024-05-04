@@ -25,3 +25,6 @@ markdown: kramdown
 webrick:
   headers:
     X-Clacks-Overhead: GNU Terry Pratchett
+
+collections:
+  - talks
