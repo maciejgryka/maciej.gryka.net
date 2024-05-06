@@ -3,6 +3,7 @@ date: 2024-05-06
 order: 5
 title: "Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models"
 url: /papers-in-public/vibe-eval
+anchor: vibe-eval
 paper_url: https://publications.reka.ai/reka-vibe-eval.pdf
 video_url: https://www.youtube.com/embed/UqL7bSLTjB8?si=IzkwflJFHwe3WHFN
 description: |
