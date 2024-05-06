@@ -21,6 +21,7 @@ I read one ML-related paper every weekday and post a 5-minute video summary to m
   <div>
   <iframe width="560" height="315" src="{{ item.video_url }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
+  {{ item.description }}
   </div>
   {% endfor %}
   {% endif %}
