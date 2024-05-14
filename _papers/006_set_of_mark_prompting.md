@@ -1,6 +1,6 @@
 ---
 date: 2024-05-14
-order: 5
+order: 6
 title: "Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V"
 url: /papers-in-public/set-of-mark-prompting
 anchor: set-of-mark-prompting
