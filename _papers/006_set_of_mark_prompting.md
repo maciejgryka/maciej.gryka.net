@@ -5,7 +5,7 @@ title: "Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V
 url: /papers-in-public/set-of-mark-prompting
 anchor: set-of-mark-prompting
 paper_url: https://som-gpt4v.github.io/
-video_url: https://www.youtube.com/embed/UqL7bSLTjB8?si=IzkwflJFHwe3WHFN
+video_url: https://www.youtube.com/embed/4PDEoG2jo2s?si=qWhjUOaN1B2TRUvu
 description: |
   <p>As we've seen before, LLM-based visual agents are pretty good at planning what to do when completing high-level tasks, but pretty bad at "grounding", i.e. turning the plan into an executable action.</p>
 
