@@ -5,7 +5,7 @@ title: "Learning Transferable Visual Models From Natural Language Supervision"
 url: /papers-in-public/clip
 anchor: clip
 paper_url: https://arxiv.org/abs/2103.00020
-video_url: https://www.youtube.com/watch?v=-9NQTy840i0
+video_url: https://www.youtube.com/embed/-9NQTy840i0?si=wuHQFroTlXr1RBAr
 description: |
   <p>Very impactful 2021 paper from OpenAI showing how to train multimodal (text + image) embedding spaces. Learns image and text representations that allow predicting which text captions match which images.</p>
 
